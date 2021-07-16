@@ -20,6 +20,7 @@
 - 📖 Reading: **[Atomic Habits - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)**
 - 🎧 Listening: **[Motion Sickness - Phoebe Bridgers](https://www.youtube.com/watch?v=9sfYpolGCu8)**
 - ⚡ Available for freelance projects/internship opportunities.
+-  📫 Read my blogs: [Julia's Blog](https://medium.com/@juliaguesam).
 
 
 <!---
