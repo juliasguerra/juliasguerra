@@ -18,9 +18,10 @@
 - 🛠 Aerospace Engineering graduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
 - 🧠Learning: **Python**
 - 📖 Reading: **[Atomic Habits - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)**
-- 🎧 Listening: **[Motion Sickness - Phoebe Bridgers](https://www.youtube.com/watch?v=9sfYpolGCu8)**
-- ⚡ Available for freelance projects/internship opportunities.
+- 🎧 Listening: **[Something Was Wrong](https://open.spotify.com/episode/1L53lAJ4lv6tezDycy9iTg?si=YklTRTVPQ6uIxiM9MaSYWg&dl_branch=1)**
 -  📫 Read my blogs: [Julia's Blog](https://medium.com/@juliaguesam).
+-  🎯 Available for freelance projects/internship opportunities.
+-  ⚡ Fun fact: I love everything related to music, I play the guitar and I am currently learning how to produce songs. 
 
 
 <!---
