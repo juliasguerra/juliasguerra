@@ -19,6 +19,8 @@
 - 🧠Learning: **Python**
 - 📖 Reading: **[Atomic Habits - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)**
 - 🎧 Listening: **[Motion Sickness - Phoebe Bridgers](https://www.youtube.com/watch?v=9sfYpolGCu8)**
+- ⚡ Available for freelance projects/internship opportunities.
+
 
 <!---
 juliasguerra/juliasguerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
