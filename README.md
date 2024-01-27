@@ -1,6 +1,6 @@
 
 <h1 align="center">⚡️ Hi, I'm Julia Guerra ⚡️</h1>
-<h4 align="center"><a href="https://www.linkedin.com/in/juliaguerra0/">LinkedIn</a> &bull; <a href="https://drive.google.com/file/d/1RfzoBfQQ1ufzQZY2hUgA94o4bcBtTNWm/view?usp=sharing">CV</a> &bull; <a href="mailto:juliaguesam@gmail.com">Email</a></h4>
+<h4 align="center"><a href="https://www.linkedin.com/in/juliaguerra0/">LinkedIn</a> &bull; <a href="https://drive.google.com/file/d/1qj_Uo3voqNpMt7K63Yx4OyDjn_oLThi4/view?usp=sharing">CV</a> &bull; <a href="mailto:juliaguesam@gmail.com">Email</a></h4>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliasguerra" alt="juliasguerra" />
