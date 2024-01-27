@@ -14,8 +14,8 @@
 
 ---
 
-- 🌏 Lives in London, UK
-- 🛠 Aerospace Engineering graduate from _[Queen Mary, University of London](https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2020/aerospace-engineering/)_
+- 🌏 Lives in Delft, Netherlands
+- 🛠 Aerospace Engineering MSc student from _[TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/space)_
 - 🧠Learning: **Python**
 - 📖 Reading: **[Atomic Habits - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)**
 - 🎧 Listening: **[Something Was Wrong](https://open.spotify.com/episode/1L53lAJ4lv6tezDycy9iTg?si=YklTRTVPQ6uIxiM9MaSYWg&dl_branch=1)**
